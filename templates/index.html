@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Clusters</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <script src="/static/script.js" defer></script>
+</head>
+<body>
+    <h1>Email Clusters</h1>
+
+    <!-- Display the colored circles for each cluster -->
+    <div class="clusters">
+        {% for cluster_id, title in cluster_titles.items() %}
+            <div class="cluster-circle" id="cluster-{{ cluster_id }}" onclick="toggleTable({{ cluster_id }})" style="background-color: {{ ['#FF5733', '#33FF57', '#3357FF', '#FFC300', '#DAF7A6'][loop.index0 % 5] }};">
+                <span class="cluster-title">{{ title }}</span>
+            </div>
+        {% endfor %}
+    </div>
+
+    <!-- Display the tables for each cluster, initially hidden -->
+    {% for cluster in clusters %}
+        <div class="email-table-container" id="table-cluster-{{ loop.index0 }}" style="display: none;">
+            <h2>{{ cluster_titles[loop.index0] }}</h2>
+            <table border="1">
+                <tr>
+                    <th>Subject</th>
+                    <th>Body</th>
+                </tr>
+                {% for email in cluster %}
+                <tr>
+                    <td>{{ email['Subject'] }}</td>
+                    <td>{{ email['Body'] }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    {% endfor %}
+</body>
+</html>

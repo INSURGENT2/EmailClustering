@@ -1,0 +1,101 @@
+Cluster,Subject,Body,Sender
+0,Newsletter,Here is the latest newsletter for you.,dave@example.com
+0,Newsletter,Just following up on our last conversation.,carol@example.com
+0,Newsletter,Attached is the weekly report.,dave@example.com
+0,Newsletter,Happy holidays!,carol@example.com
+0,Newsletter,Here is the latest newsletter for you.,dave@example.com
+0,Newsletter,Happy holidays!,bob@example.com
+0,Newsletter,Attached is the weekly report.,alice@example.com
+1,Your Subscription,Wishing you a very happy birthday!,dave@example.com
+1,Your Subscription,This is a reminder for our upcoming meeting.,carol@example.com
+1,Your Subscription,This is a reminder for our upcoming meeting.,dave@example.com
+1,Your Subscription,Wishing you a very happy birthday!,carol@example.com
+1,Your Subscription,Your subscription has been renewed.,carol@example.com
+1,Your Subscription,Here is the latest newsletter for you.,carol@example.com
+1,Your Subscription,Here is the latest newsletter for you.,alice@example.com
+1,Your Subscription,This is a reminder for our upcoming meeting.,alice@example.com
+2,Project Update,Just following up on our last conversation.,alice@example.com
+2,Project Update,Here is the latest newsletter for you.,alice@example.com
+2,Project Update,Please find the project update attached.,carol@example.com
+2,Project Update,Here is the latest newsletter for you.,bob@example.com
+2,Project Update,Here is the latest newsletter for you.,carol@example.com
+2,Project Update,Attached is the weekly report.,alice@example.com
+2,Project Update,Please find the project update attached.,carol@example.com
+2,Project Update,Here is the latest newsletter for you.,carol@example.com
+2,Project Update,Please find the project update attached.,dave@example.com
+2,Project Update,Here is the latest newsletter for you.,carol@example.com
+2,Project Update,Your subscription has been renewed.,dave@example.com
+2,Project Update,This is a reminder for our upcoming meeting.,alice@example.com
+2,Project Update,Happy holidays!,dave@example.com
+3,Holiday Greetings,Wishing you a very happy birthday!,carol@example.com
+3,Holiday Greetings,Your invoice is attached to this email.,carol@example.com
+3,Holiday Greetings,Wishing you a very happy birthday!,alice@example.com
+3,Holiday Greetings,Please find the project update attached.,bob@example.com
+3,Holiday Greetings,Wishing you a very happy birthday!,carol@example.com
+3,Holiday Greetings,Here is the latest newsletter for you.,dave@example.com
+3,Holiday Greetings,Happy holidays!,carol@example.com
+3,Holiday Greetings,Don't miss this limited-time discount offer!,carol@example.com
+3,Holiday Greetings,Your invoice is attached to this email.,bob@example.com
+3,Holiday Greetings,Your invoice is attached to this email.,carol@example.com
+3,Holiday Greetings,Don't miss this limited-time discount offer!,carol@example.com
+3,Holiday Greetings,Don't miss this limited-time discount offer!,carol@example.com
+3,Holiday Greetings,Please find the project update attached.,bob@example.com
+3,Holiday Greetings,Just following up on our last conversation.,bob@example.com
+3,Holiday Greetings,Just following up on our last conversation.,bob@example.com
+3,Holiday Greetings,Your invoice is attached to this email.,bob@example.com
+4,Weekly Report,Your subscription has been renewed.,alice@example.com
+4,Weekly Report,Happy holidays!,alice@example.com
+4,Weekly Report,Happy holidays!,carol@example.com
+4,Weekly Report,This is a reminder for our upcoming meeting.,dave@example.com
+4,Weekly Report,This is a reminder for our upcoming meeting.,dave@example.com
+4,Weekly Report,Wishing you a very happy birthday!,bob@example.com
+4,Weekly Report,Attached is the weekly report.,bob@example.com
+4,Weekly Report,Attached is the weekly report.,dave@example.com
+4,Weekly Report,Wishing you a very happy birthday!,alice@example.com
+4,Weekly Report,Just following up on our last conversation.,alice@example.com
+4,Weekly Report,Don't miss this limited-time discount offer!,carol@example.com
+4,Weekly Report,Wishing you a very happy birthday!,dave@example.com
+4,Weekly Report,Your invoice is attached to this email.,dave@example.com
+4,Weekly Report,Happy holidays!,carol@example.com
+4,Weekly Report,Just following up on our last conversation.,bob@example.com
+4,Weekly Report,Attached is the weekly report.,carol@example.com
+5,Happy Birthday!,Just following up on our last conversation.,bob@example.com
+5,Happy Birthday!,Wishing you a very happy birthday!,dave@example.com
+5,Happy Birthday!,Attached is the weekly report.,bob@example.com
+5,Happy Birthday!,Don't miss this limited-time discount offer!,bob@example.com
+5,Happy Birthday!,Here is the latest newsletter for you.,bob@example.com
+5,Happy Birthday!,Happy holidays!,alice@example.com
+5,Happy Birthday!,Just following up on our last conversation.,carol@example.com
+5,Happy Birthday!,Your invoice is attached to this email.,dave@example.com
+5,Happy Birthday!,Here is the latest newsletter for you.,dave@example.com
+5,Happy Birthday!,Please find the project update attached.,alice@example.com
+5,Happy Birthday!,Just following up on our last conversation.,dave@example.com
+5,Happy Birthday!,Happy holidays!,alice@example.com
+5,Happy Birthday!,Wishing you a very happy birthday!,alice@example.com
+5,Happy Birthday!,Your subscription has been renewed.,bob@example.com
+5,Happy Birthday!,Don't miss this limited-time discount offer!,alice@example.com
+6,Meeting Reminder,Just following up on our last conversation.,alice@example.com
+6,Meeting Reminder,Your subscription has been renewed.,bob@example.com
+6,Meeting Reminder,Your invoice is attached to this email.,carol@example.com
+6,Meeting Reminder,Happy holidays!,alice@example.com
+7,Discount Offer,This is a reminder for our upcoming meeting.,carol@example.com
+7,Discount Offer,Your subscription has been renewed.,carol@example.com
+7,Discount Offer,This is a reminder for our upcoming meeting.,alice@example.com
+7,Discount Offer,Please find the project update attached.,alice@example.com
+7,Discount Offer,Attached is the weekly report.,carol@example.com
+8,Invoice Attached,Don't miss this limited-time discount offer!,bob@example.com
+8,Invoice Attached,Please find the project update attached.,carol@example.com
+8,Invoice Attached,This is a reminder for our upcoming meeting.,carol@example.com
+8,Invoice Attached,Just following up on our last conversation.,alice@example.com
+8,Invoice Attached,Here is the latest newsletter for you.,bob@example.com
+8,Invoice Attached,Your invoice is attached to this email.,alice@example.com
+8,Invoice Attached,Don't miss this limited-time discount offer!,dave@example.com
+8,Invoice Attached,Here is the latest newsletter for you.,dave@example.com
+9,Follow Up,Please find the project update attached.,dave@example.com
+9,Follow Up,Wishing you a very happy birthday!,bob@example.com
+9,Follow Up,Here is the latest newsletter for you.,carol@example.com
+9,Follow Up,Your subscription has been renewed.,bob@example.com
+9,Follow Up,Attached is the weekly report.,carol@example.com
+9,Follow Up,Your subscription has been renewed.,bob@example.com
+9,Follow Up,Attached is the weekly report.,alice@example.com
+9,Follow Up,This is a reminder for our upcoming meeting.,dave@example.com

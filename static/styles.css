@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.clusters {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.cluster-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    transition: transform 0.3s ease;
+}
+
+.cluster-circle:hover {
+    transform: scale(1.1);
+}
+
+.email-table-container {
+    margin-top: 20px;
+    text-align: left;
+    display: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Make it responsive */
+@media (max-width: 768px) {
+    .clusters {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cluster-circle {
+        width: 80px;
+        height: 80px;
+    }
+
+    table {
+        width: 100%;
+    }
+}
